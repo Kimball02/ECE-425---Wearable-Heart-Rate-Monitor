@@ -16,3 +16,4 @@ Professor
 - To gain experience in using embedded systems fundamentals learned in class to design practical systems and devices.
 
 # Video Demonstration
+https://youtube.com/shorts/SDyr98laGNo?feature=share
