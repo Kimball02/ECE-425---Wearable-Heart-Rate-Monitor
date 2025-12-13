@@ -17,3 +17,6 @@ Professor
 
 # Video Demonstration
 - Heart Rate Monitor Demo: [Link](https://youtube.com/shorts/SDyr98laGNo?feature=share)
+
+# Photos
+<img width="698" height="563" alt="Screenshot 2025-12-13 152338" src="https://github.com/user-attachments/assets/e0597717-8ca3-4eb1-ae31-e9a937ce81b3" />
