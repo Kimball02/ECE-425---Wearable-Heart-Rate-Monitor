@@ -16,6 +16,10 @@ Professor
 - To design a user friendly wearable device that measures and displays the beats per minute of its wearer.
 - To gain experience in using embedded systems fundamentals learned in class to design practical systems and devices.
 
+# Block Diagram
+
+<img width="721" height="722" alt="Screenshot 2025-12-13 153004" src="https://github.com/user-attachments/assets/195de08d-dd9d-4bea-bbcb-97d4b7e50261" />
+
 # Video Demonstration
 - Heart Rate Monitor Demo: [Link](https://youtube.com/shorts/SDyr98laGNo?feature=share)
 
