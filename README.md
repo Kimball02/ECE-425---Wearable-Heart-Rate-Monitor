@@ -24,9 +24,6 @@ Professor
 The heart rate monitor performed well during testing. The system was able to detect heartbeats in real time and generate a stable BPM reading after we applied the low-pass filter and averaged the most recent intervals. This significantly reduced noise and eliminated the large BPM jumps we saw before filtering. The LCD updated smoothly every 100 ms and consistently displayed both the current BPM and the corresponding heart rate condition. Overall, the results showed that the pulse sensor and beat detection logic worked reliably, providing an accurate and functional heart-rate display under normal operating conditions.
 Several challenges were encountered during the process, the main one being the sensitivity of the pulse sensor to finger placement. Small changes in pressure or slight finger movement often introduced noise into the signal. Ambient lighting and motion also added interference, sometimes leading to false beat detections. By adjusting the filtering, tuning the threshold levels, and securing the wiring, we were able to stabilize the sensor readings and allow the monitor to provide more reliable and accurate results.
 
-# Background and Methodology
-In this project, we will apply embedded systems concepts such as analog-to-digital conversion (ADC), signal processing, and LCD interfacing to create a wearable heart rate monitor. We will use a pulse sensor which will detect the heartbeat signal and send it to the microcontroller through the ADC pin. It will then count the number of heartbeats over a set period and calculate the BPM. The measured heart rate will be displayed on an LCD screen for the user to read. We will be using the TMC4C123GH6PM microcontroller, a pulse sensor, an LCD display, connecting wires, and a power supply. The microcontroller will use peripherals such as GPIO for LCD, ADC for the pulse sensor input, and Timers to measure the time between heartbeats. The software we will be using is Keil µVision and will be written in the C Programming language.
-
 # Video Demonstration
 - Heart Rate Monitor Demo: [Link](https://youtube.com/shorts/SDyr98laGNo?feature=share)
 
@@ -39,3 +36,11 @@ In this project, we will apply embedded systems concepts such as analog-to-digit
 
 ### Normal Heart Rate:
 <img width="598" height="559" alt="image" src="https://github.com/user-attachments/assets/3235c9cb-0643-4370-b103-fe703153e676" />
+
+# Background and Methodology
+In this project, we will apply embedded systems concepts such as analog-to-digital conversion (ADC), signal processing, and LCD interfacing to create a wearable heart rate monitor. We will use a pulse sensor which will detect the heartbeat signal and send it to the microcontroller through the ADC pin. It will then count the number of heartbeats over a set period and calculate the BPM. The measured heart rate will be displayed on an LCD screen for the user to read. We will be using the TMC4C123GH6PM microcontroller, a pulse sensor, an LCD display, connecting wires, and a power supply. The microcontroller will use peripherals such as GPIO for LCD, ADC for the pulse sensor input, and Timers to measure the time between heartbeats. The software we will be using is Keil µVision and will be written in the C Programming language.
+
+# Components Used
+| Microcontroller | Sensor |Screen| Wiring |
+| --- | --- | --- | --- |
+| TM4C123GH6PM | Pulse Sensor | EduBase 16x2 LCD  | Breadboard  and Jumper Wires |
