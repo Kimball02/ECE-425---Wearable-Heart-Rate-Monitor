@@ -21,7 +21,9 @@ Professor
 # Photos
 ### No Pulse:
 <img width="698" height="563" alt="Screenshot 2025-12-13 152338" src="https://github.com/user-attachments/assets/e0597717-8ca3-4eb1-ae31-e9a937ce81b3" />
+
 ### High Heart Rate:
 <img width="686" height="561" alt="Screenshot 2025-12-13 152411" src="https://github.com/user-attachments/assets/91c960be-aa1f-4e9e-b434-df584248b53a" />
+
 ### Normal Heart Rate:
 <img width="598" height="559" alt="image" src="https://github.com/user-attachments/assets/3235c9cb-0643-4370-b103-fe703153e676" />
