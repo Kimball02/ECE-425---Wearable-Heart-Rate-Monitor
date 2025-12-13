@@ -44,3 +44,10 @@ In this project, we will apply embedded systems concepts such as analog-to-digit
 | Microcontroller | Sensor |Screen| Wiring |
 | --- | --- | --- | --- |
 | TM4C123GH6PM | Pulse Sensor | EduBase 16x2 LCD  | Breadboard  and Jumper Wires |
+
+# Pinout
+| Pulse Sensor Wire | Color |TM4C123 Pin| Function |
+| --- | --- | --- | --- |
+| Vdd | Red | 3.3V  | Sensor Power |
+| Ground | Black | GND  | Common Ground |
+| Signal | Purple | PE3 (AIN0)  | Analog Input to ADC0 |
