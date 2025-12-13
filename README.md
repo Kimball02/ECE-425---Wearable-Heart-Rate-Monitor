@@ -21,6 +21,8 @@ Professor
 <img width="721" height="722" alt="Screenshot 2025-12-13 153004" src="https://github.com/user-attachments/assets/195de08d-dd9d-4bea-bbcb-97d4b7e50261" />
 
 # Results
+The heart rate monitor performed well during testing. The system was able to detect heartbeats in real time and generate a stable BPM reading after we applied the low-pass filter and averaged the most recent intervals. This significantly reduced noise and eliminated the large BPM jumps we saw before filtering. The LCD updated smoothly every 100 ms and consistently displayed both the current BPM and the corresponding heart rate condition. Overall, the results showed that the pulse sensor and beat detection logic worked reliably, providing an accurate and functional heart-rate display under normal operating conditions.
+Several challenges were encountered during the process, the main one being the sensitivity of the pulse sensor to finger placement. Small changes in pressure or slight finger movement often introduced noise into the signal. Ambient lighting and motion also added interference, sometimes leading to false beat detections. By adjusting the filtering, tuning the threshold levels, and securing the wiring, we were able to stabilize the sensor readings and allow the monitor to provide more reliable and accurate results.
 
 # Video Demonstration
 - Heart Rate Monitor Demo: [Link](https://youtube.com/shorts/SDyr98laGNo?feature=share)
