@@ -1,0 +1,34 @@
+Dependencies for Project 'ECE_424_Final_Project', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\main.c)(0x692E2B01)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/ti/TivaWare_C_Series-2.1.4.178/inc -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib-I./RTE/_Target_1-IC:/Keil_v5/ARM/ARM/CMSIS/6.2.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="543" -DTM4C123GH6PM -D_RTE_-o ./objects/main.o -MMD)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x68AFE127)
+I (C:\Keil_v5\ARM\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm4.h)(0x68AFE018)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x68AFE126)
+I (SysTick_Delay.h)(0x69279E5C)
+I (pulse_sensor.h)(0x692E61AD)
+I (LCD.h)(0x69279E5C)
+F (.\pulse_sensor.h)(0x692E61AD)()
+F (.\pulse_sensor.c)(0x692E61AD)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/ti/TivaWare_C_Series-2.1.4.178/inc -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib-I./RTE/_Target_1-IC:/Keil_v5/ARM/ARM/CMSIS/6.2.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="543" -DTM4C123GH6PM -D_RTE_-o ./objects/pulse_sensor.o -MMD)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x68AFE127)
+I (C:\Keil_v5\ARM\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm4.h)(0x68AFE018)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x68AFE126)
+I (pulse_sensor.h)(0x692E61AD)
+F (.\LCD.h)(0x69279E5C)()
+F (.\LCD.c)(0x69279E5C)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/ti/TivaWare_C_Series-2.1.4.178/inc -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib-I./RTE/_Target_1-IC:/Keil_v5/ARM/ARM/CMSIS/6.2.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="543" -DTM4C123GH6PM -D_RTE_-o ./objects/lcd.o -MMD)
+I (LCD.h)(0x69279E5C)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x68AFE127)
+I (C:\Keil_v5\ARM\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm4.h)(0x68AFE018)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x68AFE126)
+I (SysTick_Delay.h)(0x69279E5C)
+F (.\SysTick_Delay.c)(0x69279E5C)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/ti/TivaWare_C_Series-2.1.4.178/inc -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib-I./RTE/_Target_1-IC:/Keil_v5/ARM/ARM/CMSIS/6.2.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="543" -DTM4C123GH6PM -D_RTE_-o ./objects/systick_delay.o -MMD)
+I (SysTick_Delay.h)(0x69279E5C)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x68AFE127)
+I (C:\Keil_v5\ARM\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm4.h)(0x68AFE018)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x68AFE126)
+F (.\SysTick_Delay.h)(0x69279E5C)()
+F (RTE/Device/TM4C123GH6PM/startup_TM4C123.s)(0x69279E5D)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Keil_v5/ARM/ARM/CMSIS/6.2.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"TM4C123GH6PM SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_tm4c123.o)
+F (RTE/Device/TM4C123GH6PM/system_TM4C123.c)(0x69279E5D)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/ti/TivaWare_C_Series-2.1.4.178/inc -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib-I./RTE/_Target_1-IC:/Keil_v5/ARM/ARM/CMSIS/6.2.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="543" -DTM4C123GH6PM -D_RTE_-o ./objects/system_tm4c123.o -MMD)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x68AFE126)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x68AFE127)
+I (C:\Keil_v5\ARM\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm4.h)(0x68AFE018)
+I (C:\Keil_v5\ARM\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x68AFE126)
